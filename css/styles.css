@@ -446,6 +446,10 @@ video {
   display: none;
 }
 
+body {
+  background-image: url('../img/pattern.png');
+}
+
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
