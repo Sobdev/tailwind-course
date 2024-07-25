@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
+/* @layer base {
     body {
         background-image: url('../img/pattern.png');
     }
 }
 
-@layer components {}
+@layer components {} */
