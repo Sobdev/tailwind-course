@@ -2,11 +2,10 @@ module.exports = {
     theme: {
         extend: {
             backgroundImage: theme => ({
-                'body-pattern': "url('../img/pattern.png')"
-            })
-        }
+                'body-pattern': "url('../img/pattern.png')",
+            }),
+        },
     },
-    variants: {
-
-    }
+    variants: {},
+    plugins: [],
 }

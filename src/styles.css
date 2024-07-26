@@ -1,11 +1,4 @@
+/* styles.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* @layer base {
-    body {
-        background-image: url('../img/pattern.png');
-    }
-}
-
-@layer components {} */
