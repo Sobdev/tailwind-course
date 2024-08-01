@@ -33,6 +33,18 @@
         font-style: normal;
     }
 
+    .symbol {
+        font-family: "WebSymbolsRegular";
+    }
+
+    .bebas {
+        font-family: "BebasNeue";
+    }
+
+    .trebuchet {
+        font-family: "WebSymbolsRegular";
+    }
+
 }
 
 @layer components {}
